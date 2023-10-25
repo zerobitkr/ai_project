@@ -23,7 +23,8 @@ Automated Log Classification Using Deep Learning - ScienceDirect
 -- clustering types : k-means, KNN, spectral clustering, PCA
 -- https://www.mdpi.com/2076-3417/13/7/4151
 
-urgent one : log parsing and groupin
+urgent one : log parsing and grouping
+
 4. plm을 통한 representation 뽑은 뒤
 4-1 머신러닝 기반 접근방법(xgboost, svm)
 4-2 NN 기반 접근 법 (linear cls + non linear)
