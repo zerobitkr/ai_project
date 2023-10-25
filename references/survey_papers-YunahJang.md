@@ -1,6 +1,6 @@
 # ai_project
 
-# survey papers
+## survey papers
 Log-Based Anomaly Detection with Deep Learning: How Far are We? 2022 ICSE
 https://dl.acm.org/doi/pdf/10.1145/3510003.3510155
 
@@ -11,12 +11,12 @@ Deep learning for anomaly detection in log data: A survey 2019
 https://arxiv.org/pdf/1901.03407.pdf
 
 Automated Log Classification Using Deep Learning - ScienceDirect
-- https://www.sciencedirect.com/science/article/pii/S1877050923001503
+https://www.sciencedirect.com/science/article/pii/S1877050923001503
   
 Loghub: A Large Collection of System Log Datasets for AI-driven Log Analytics
 https://arxiv.org/abs/2008.06448
 
-# models
+## models
 
 1. log pretrained bert
 
