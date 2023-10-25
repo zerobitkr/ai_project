@@ -15,8 +15,11 @@ Automated Log Classification Using Deep Learning - ScienceDirect
 # models
 
 1. log pretrained bert
+
 -- dataset : https://github.com/logpai/loghub
+
 -- model : https://arxiv.org/abs/2103.04475
+
 2. Sentiment Analysis
 -- baseline models : https://paperswithcode.com/task/sentiment-analysis
 3. clustering with anomaly detection
