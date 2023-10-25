@@ -23,7 +23,8 @@ Automated Log Classification Using Deep Learning - ScienceDirect
 2. Sentiment Analysis
 
    -- baseline models : https://paperswithcode.com/task/sentiment-analysis
-3. clustering with anomaly detection
+   
+4. clustering with anomaly detection
 
    -- clustering types : k-means, KNN, spectral clustering, PCA
 
