@@ -12,6 +12,10 @@ https://arxiv.org/pdf/1901.03407.pdf
 
 Automated Log Classification Using Deep Learning - ScienceDirect
 - https://www.sciencedirect.com/science/article/pii/S1877050923001503
+  
+Loghub: A Large Collection of System Log Datasets for AI-driven Log Analytics
+https://arxiv.org/abs/2008.06448
+
 # models
 
 1. log pretrained bert
